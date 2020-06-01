@@ -1,0 +1,7 @@
+Una funcion lleva parentesis cuando se busca ejecutar la misma.
+y
+una funcion no lleva poarentesis cuando esta es pasada como parametro de otra funcion (callback,promesas y eventos)
+**************************************************
+el bind() hace que se cree otra funcion con la referencia al this, esta puede causar problemas cuando se crea muchas instancias, 
+para ello es mejor crearlas en el contructor
+**************************************************
